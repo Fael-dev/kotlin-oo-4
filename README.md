@@ -1,4 +1,4 @@
-# kotlin-poo-4
+# kotlin-oo-4
 ## Kotlin: lidando com exceptions e referências nulas
 ### Conteúdo:
 - [X] Tratando Exceptions
